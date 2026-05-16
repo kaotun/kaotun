@@ -129,7 +129,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaotun/kaotun/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/kaotun/kaotun@output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---

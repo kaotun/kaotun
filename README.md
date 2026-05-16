@@ -14,7 +14,7 @@
   <table style="border: none; background-color: transparent;">
     <tr>
       <td style="border: none; background-color: transparent; padding-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaotun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="kaotun's GitHub stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaotun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="kaotun's GitHub stats" />
       </td>
       <td style="border: none; background-color: transparent;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaotun&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="kaotun's GitHub streak" />

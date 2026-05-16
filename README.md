@@ -82,7 +82,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/main/doc/_static/logo-looking-glass.png?v=2" alt="seaborn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/mwaskom/seaborn@main/doc/_static/logo-looking-glass.png" alt="seaborn" width="40" height="40"/>
 </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>

@@ -49,7 +49,7 @@
 ### 🛠️ Tech Stack
 
 #### 🌐 Languages & Databases
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   </a>
@@ -71,7 +71,7 @@
 </p>
 
 #### 📊 Data Science & Machine Learning
-<p align="left">
+<p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
@@ -96,7 +96,7 @@
 </p>
 
 #### ⚙️ Tools & Frameworks
-<p align="left">
+<p align="center">
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
   </a>

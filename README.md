@@ -1,15 +1,72 @@
+<h1 align="center">Hi there, I'm Cao Quốc Tuấn 👋</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaotun21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaotun21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuancaoquoc2005@gmail.com) 
+<h3 align="center">Data Scientist | Machine Learning Engineer | Data Analyst | Student at HCMUS</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaotun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kaotun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaotun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Mình là sinh viên chuyên ngành về Dữ liệu tại Trường Đại học Khoa học Tự nhiên TP.HCM (HCMUS). Định hướng của mình là tối ưu hóa sức mạnh của dữ liệu thông qua các mô hình học máy tiên tiến và hệ thống xử lý dữ liệu lớn để tạo ra các giải pháp thực tiễn.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaotun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Về bản thân mình
+
+- 🔭 **Định hướng chuyên môn:** Tập trung nghiên cứu sâu về xây dựng pipeline Machine Learning, tối ưu hóa mô hình dự báo và kỹ thuật phân tích khám phá dữ liệu (EDA).
+- 🌱 **Nghiên cứu & Phát triển:** Đang tìm hiểu ứng dụng các kiến trúc SOTA (như Mamba, Transformers) vào Thị giác máy tính (Computer Vision) cùng hệ sinh thái dữ liệu lớn (Hadoop, PySpark).
+- 💬 **Thảo luận chuyên môn:** Sẵn sàng chia sẻ về Python, kỹ thuật xử lý dữ liệu, tối ưu tham số (Optuna) và các thuật toán nâng cao như CatBoost, Scikit-learn.
+- ⚙️ **Môi trường làm việc:** Thành thạo sử dụng Jupyter Notebook, WSL 2, Git hệ thống và hệ soạn thảo LaTeX cho các báo cáo kỹ thuật chuyên sâu.
+
+---
+
+### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
+
+**Ngôn ngữ & Xử lý Dữ liệu**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Machine Learning & Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" />
+  <img src="https://img.shields.io/badge/Optuna-4A154B?style=for-the-badge&logo=optuna&logoColor=white" />
+</p>
+
+**Big Data & Môi trường Phát triển**
+<p>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL_2-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+### 📊 Thống kê hoạt động GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaotun&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaotun&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Kết nối với mình
+
+<p>
+  <a href="mailto:tuancaoquoc2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/kaotun21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/kaotun" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
